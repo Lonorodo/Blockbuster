@@ -12,7 +12,7 @@ public class GameStatusController : MonoBehaviour
     [SerializeField] TextMeshProUGUI scorefield;
     
     
-
+    //Ich habe heute wochenende
     private void Awake()
     {
         int gameStatusCount = FindObjectsOfType<GameStatusController>().Length;
